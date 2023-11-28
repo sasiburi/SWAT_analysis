@@ -6,6 +6,8 @@ Implementation by: Francesco Galati.
 
 Additional contributions: Julien Audibert, Maria A. Zuluaga.
 
+A baseline model of AutoEncoder is created by Elaine Zhou for comparative study.
+
 ## How to cite
 
 If you use this software, please cite the following paper as appropriate:
@@ -36,4 +38,4 @@ Audibert et al. [USAD : UnSupervised Anomaly Detection on multivariate time seri
 [SWaT dataset]: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat
 [USAD : UnSupervised Anomaly Detection on multivariate time series]: https://dl.acm.org/doi/pdf/10.1145/3394486.3403392
 
-## A baseline model of AutoEncoder is created by Elaine Zhou for comparative study.
+
