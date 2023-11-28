@@ -35,3 +35,5 @@ Audibert et al. [USAD : UnSupervised Anomaly Detection on multivariate time seri
 
 [SWaT dataset]: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat
 [USAD : UnSupervised Anomaly Detection on multivariate time series]: https://dl.acm.org/doi/pdf/10.1145/3394486.3403392
+
+## A baseline model of AutoEncoder is created by Elaine Zhou for comparative study.
